@@ -306,6 +306,7 @@ a:hover {
     margin-bottom: 0;
     background-color: #444;
     box-shadow: 0 0.5em 0.5em rgb(0 0 0 / 35%);
+    z-index: 0;
 }
 
 .custom-select:focus {
