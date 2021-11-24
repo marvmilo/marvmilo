@@ -429,3 +429,7 @@ body {
     background-clip: border-box;
     border-radius: 0.25rem;
 }
+
+input:invalid {
+    outline: solid #e74c3c;
+}
